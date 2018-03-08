@@ -1,0 +1,25 @@
+
+a:link, a:visited {
+	margin-right: 100px;
+	text-align: bottom;
+    background-color: #f44336;
+    padding: 14px 25px;
+    text-decoration: none;
+    display: inline-block; 
+    border-radius: 12px;
+    border-left: 6px solid red;
+    background-color: lightgrey;	
+}
+}p{
+	text-align: left;
+	color: blue;
+	font-size: 30px;
+	font-family: initial;
+}
+img{
+	text-align: center;
+	padding: 50px 60px
+}
+body{
+	background-color: rgba(50,60,80,150);
+}
